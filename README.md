@@ -11,7 +11,7 @@
 
 ##  About Me
 
-I am a passionate **Web Developer** dedicated to building responsive, scalable, and highly interactive user interfaces. I love taking complex coding concepts and breaking them down into clean, performant, and beautifully designed digital experiences.
+**Web Developer** building responsive, scalable, and interactive UIs. Turning complex code into clean, beautiful digital experiences.
 
 ---
 
