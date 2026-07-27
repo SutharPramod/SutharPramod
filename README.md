@@ -45,14 +45,21 @@
 
 ## 😄 Fun Fact
 
-I enjoy turning dry technical concepts into engaging, easy-to-understand breakdowns and visual summaries so they stick!
+<details>
+<summary><b>Click to see my secret development superpower... 👀</b></summary>
+<br />
+
+I act as a **human compiler** for tech concepts! 🧠
+I take in confusing, dense documentation and output clean, responsive, visual analogies. If a concept can't be explained simply, it just means it hasn't been refactored yet!
+
+</details>
 
 ---
 
 ## 📊 GitHub Dashboard Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SutharPramod&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sutharpramod&border_radius=16.3&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&fire=EB0000&background=15%2C000000%2C171717" alt="Streak Stats" />
 </p>
 
 <p align="center">
